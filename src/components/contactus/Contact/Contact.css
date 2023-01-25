@@ -1,0 +1,62 @@
+.contact-container{
+    background-color: white;
+}
+.heading{
+    color:#005395;
+    font-family:  sans-serif;
+    font-weight: bold;
+    padding: 0px 0px 15px 0px !important;
+}
+.form-padding-col8{
+    padding: 30px 100px 50px 100px !important;
+}
+.form-padding-col4{
+    padding: 30px 10px 50px 100px !important;
+}
+.input-contact{
+    padding: 15px 15px 15px 15px !important;
+    border-radius: 2px !important;
+}
+.cityinfosol{
+    color:#005395;
+    font-family:  sans-serif;
+    font-weight: bold;
+    padding: 0px 0px 15px 0px !important;
+}
+.city-div-flex{
+    display: flex;
+    margin-top: 25px !important;
+}
+.input-flex{
+    display: flex;
+    margin: auto !important;
+}
+.input-auto{
+    margin: auto !important;
+    width: 100% !important;
+}
+.ii{
+    color: #005395 !important;
+    font-size:25px;
+}
+.ii1{
+    color: #005395 !important;
+    font-size:30px;
+}
+.bold-heading{
+    font-size: 20px !important;
+}
+.pre{
+    font-size: 16px;
+}
+@media screen and (min-width: 352px) and (max-width: 920px) {
+    .form-padding-col8{
+        padding: 20px 10px 20px 10px !important;
+    }
+    .form-padding-col4{
+        padding: 20px 10px 20px 10px !important;
+    }
+    .input-flex{
+        flex-direction: column;
+    }
+  }

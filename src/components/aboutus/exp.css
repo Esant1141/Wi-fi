@@ -1,0 +1,125 @@
+.lead3{
+    font-size: 15px;
+    font-family: sans-serif,Open Sans;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.icontext{
+        color: white;
+        font-size: 40px;
+        font-weight: 600;
+        margin-left: 65px;
+        padding-top: 35px;
+}
+.icontext1{
+        color: white;
+        margin-bottom: 40px;
+        font-size: 20px;
+        margin-top: -20px;
+}
+.flud{
+          background-color: blue;
+          background : linear-gradient(45deg, rgb(84, 222, 230) , rgb(18, 107, 161));
+          padding-right: 150px;
+          padding-left: 150px;
+}
+.txt{
+        color: white;
+        font-weight: 600;
+        font-size: 50px;
+        text-align:  center;
+        padding-top:50px;
+      
+}
+.a{
+
+        background-color: blue;
+        background: linear-gradient(45deg, rgb(84, 222, 230) , rgb(18, 107, 161));
+        padding-right: 150px;
+        padding-left: 150px;
+
+}
+.e1{
+    width:90px;
+    height:90px;
+    /* margin-left: 60px; */
+}
+.e2{
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+.e3{
+    font-size: 19px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+.e4{
+    color: #ffffff;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;  
+    padding-bottom: 50px;
+}
+@media screen and (max-width: 600px) {
+    .lead3{
+        font-size: 15px;
+        font-family: sans-serif,Open Sans;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        /* padding-bottom: 10px; */
+    }
+/* .icon{
+
+    font-size: 120px;
+    color: white;
+    margin-left: -80px;
+    padding-top: 30px;
+} */
+.icontext{
+    
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: -65px;
+    padding-top: 35px;
+  
+}
+.icontext1{
+    color: white;
+    margin-bottom: 40px;
+    font-size: 20px;
+    margin-top: -20px;
+}
+.txt{
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    text-align:  center;
+    padding-top:50px;
+  
+}
+.a{
+
+    background-color: blue;
+    background: linear-gradient(45deg, rgb(84, 222, 230) , rgb(18, 107, 161));
+    padding-right: 150px;
+    padding-left: 150px;
+/* flex-direction: column; */
+}
+.e1{
+    width:90px;
+    height:90px;
+    /* margin-left: 120px; */
+}
+.e4{
+    font-size: 30px; 
+}
+     }

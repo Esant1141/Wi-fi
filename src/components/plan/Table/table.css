@@ -1,0 +1,26 @@
+.table-heading{
+    color: #005395;
+    font-weight: 600;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.table-container{
+    background-color: white;
+    padding: 20px 150px 20px 150px;
+}
+@media screen and (min-width: 352) and (max-width: 920) {
+    .table-heading{
+        color: #005395;
+        font-weight: 600;
+        text-align: center;
+        font-size: 20px;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    .table-container{
+        background-color: white;
+        padding: 20px 10px 20px 10px;
+    }
+  }

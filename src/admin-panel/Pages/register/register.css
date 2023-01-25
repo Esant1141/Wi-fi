@@ -1,0 +1,97 @@
+.register-container {
+  background-color: #282c34;
+  height: 100vh;
+  width: 100%;
+  padding-top: 100px;
+}
+.register-row {
+  margin-left: 350px !important;
+  padding: 0px;
+  margin-right: 350px !important;
+  border-radius: 10px;
+  background-color: white;
+}
+.register-col1 {
+  background-color: lightblue;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 30px;
+}
+.register-col2 {
+  padding: 30px;
+}
+.register-btn-account {
+  text-align: center;
+}
+.register-btn-google {
+  text-align: center;
+}
+.register-btn-facebook {
+  text-align: center;
+}
+.btna {
+  background-color: rgb(63, 139, 201) !important;
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 13px !important;
+  padding: 10px !important;
+  width: 93% !important;
+}
+.btng {
+  background-color: rgb(210, 50, 50) !important;
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 13px !important;
+  padding: 10px !important;
+  width: 93% !important;
+}
+.btnf {
+  background-color: rgb(131, 68, 186) !important;
+  border: none !important;
+  border-radius: 30px !important;
+  font-size: 13px !important;
+  padding: 10px !important;
+  width: 93% !important;
+}
+.register-heading {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center !important;
+}
+.fname {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  padding: 10px !important;
+}
+.mail-input{
+     margin: auto; width: 95%;
+     padding: 10px;
+     font-size: 13px;
+     border-width: 1px !important;
+     border-radius: 20px;
+}
+.password-input{
+    padding: 10px;
+    border-radius: 40px;
+}
+.name-input{
+    padding: 10px;
+    border-radius: 40px;
+    font-size: 13px;
+    border-width: 1px !important;
+}
+.form-register{
+  width: 80%;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+  margin-top: 50px;
+}
+.label-register{
+  color: white;
+  padding-bottom: 10px;
+}
+.btn-register{
+  margin-top: 10px;
+}

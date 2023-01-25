@@ -1,0 +1,25 @@
+.mission-container{
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    background-color:white !important;
+}
+.about-flex-div{
+    width: 100% !important;
+    display: flex;
+    margin: auto;
+    padding: 0%;
+}
+.about-div-img{
+    width: 100% !important;
+    padding:10px;
+}
+@media (min-width: 352px) and (max-width: 1000px) {
+    .mission-container{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        margin: auto !important;
+    }
+    .about-flex-div{
+        flex-direction: column;
+    }
+  }

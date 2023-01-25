@@ -1,0 +1,227 @@
+.selfimg{
+    height: 300px !important;
+  
+}
+.img{
+    height:100%;
+    height:100%;
+}
+.index00{
+    text-align: center;
+    color: #005395;
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.index0{
+    text-align: center;
+    color: #005395;
+    font-size: 2.5rem;
+    font-weight: 500;
+ 
+}
+.index{
+  background-color: #fff;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+}
+.accordian-1{
+ font-size: 1rem;
+ color: black;
+}
+.header:hover{
+    color: rgb(255, 255, 255);
+}
+.drow{
+    width:40px;
+    height:40px;
+    background-color: rgb(36, 36, 118);
+    border-radius: 30px;
+}
+.drow1{
+    width:40px;
+    height:40px;
+    background-color: rgb(36, 36, 118);
+    border-radius: 30px;
+}
+.accor{
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  font-size: 1.5rem;
+}
+.card{
+    margin-top: 20px;
+}
+.looping{
+    width:40px;
+    height:40px;
+
+}
+.img1{
+    width:100%;
+    height: 100%;
+}
+.img1:hover{
+    transform: scale(0.6);
+    transition-duration: 0.5s;
+}
+.title{
+    margin-left: 50px !important;
+    margin-top: -30px !important;
+    color: rgb(33, 33, 143);
+    font-size: 20px !important;
+}
+.btn-career{
+    background-color: rgb(249, 156, 16) !important;
+    border: none !important;
+}
+.btn-career:hover{
+  background-color: #005395 !important;
+  color: #fff !important;
+}
+.bt{
+    height: 10px;
+    width: 150px;
+    color: #fff;
+    
+}
+.btn-list-accor{
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+}
+.btn-list-accor:hover{
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+}
+.bt:hover{
+    color: white !important;
+
+}
+.text{
+    font-size: 1.5rem;
+    color: rgb(255, 128, 0);
+    
+    font-weight: 500;
+}
+.router{
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 15px;
+}
+.accordian-text1{
+    margin-top: 20px;
+}
+
+.text2{
+    color: rgb(37, 37, 114);
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-left: 20px;
+}
+.drive{
+    width:50px;
+    height:20px;
+
+    margin-left: 20px;
+    margin-top: -30px;
+}
+.img3{
+    width:100px !important;
+    height:60px !important;
+}
+.img4{
+    width:190px !important;
+    height:140px !important;
+    padding-bottom: 20px;
+}
+.head1{
+    border: none !important;
+}
+@media (max-width: 460px){
+    .selfimg{
+        height: 200px !important;
+       
+    }
+    .index00{
+        text-align: center;
+        color: rgb(29, 29, 119);
+        font-size: 2rem;
+    }
+    .index0{
+        text-align: center;
+        color: rgb(29, 29, 119);
+        font-size: 1.5rem !important;
+        margin-top: -20px;
+    }
+    .title{
+        margin-left: 50px !important;
+        margin-top: -30px !important;
+        color: rgb(33, 33, 143);
+        font-size: 13px !important;
+        font-weight: 600;
+    }
+    .index{
+        /* margin-top: 120px; */
+        padding: 20px;
+    }
+    .drow{
+        width:40px;
+        height:25px;
+        background-color: rgb(36, 36, 118);
+        border-radius: 80px !important;
+    }
+    .drow1{
+        width:65px;
+        height:25px;
+        background-color: rgb(36, 36, 118);
+        border-radius: 100px;
+    }
+    .accor{
+        color:white ;
+        text-align: center;
+        margin-top: 1.3px;
+        font-size: 1rem;
+      }
+      .img3{
+        width:100% !important;
+        height:200% !important;
+    }
+    .drive{
+        width:70px;
+        height:10px;
+   
+        margin-left: 20px;
+        margin-top: -30px;
+    }
+    .text2{
+        color: rgb(37, 37, 114);
+        font-size: 1rem;
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-left: 20px;
+    }
+   
+}
+/* .col{
+    width:200px !important;
+    height:100px !important;
+  
+} */
+.img3{
+    width:100%;
+    height:100%;
+}
+.route{
+    width:100%;
+    height:fit-content;
+    background: linear-gradient(75deg,   darkorange,rgb(255, 174, 0));
+    border-radius: 12px;
+}
+.t{
+    padding: 50px !important;
+}
+.first{
+    background-color: #fff;
+}

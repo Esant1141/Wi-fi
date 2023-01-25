@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  color: #228b22;
+  text-align: center;
+}
+.display-footer{
+  display: flex;
+}
+.footer-div-menu{
+  margin: auto !important;
+text-align: center !important;
+width: 40%;
+}
+.footer-div-menu1{
+  margin: auto !important;
+text-align: center !important;
+width: 40%;
+}
+.footer-div-menu2{
+  margin: auto !important;
+text-align: center !important;
+width: 20%;
+padding: 0px 30px 0px 0px;
+}
+
+.sticky-foot{
+  padding-bottom: 70px;
+}
+.footer {
+  background: rgb(19, 47, 74);
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+  bottom: 0;
+  color: rgb(74, 74, 74);
+  font-size: 15px;
+}
+.colr {
+  background-image: url("footer.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.main {
+  font-size: 10px !important;
+  font-family: sans-serif, Open Sans;
+}
+.mainn{
+  display: flex;
+  font-size: 14px !important;
+  font-family: sans-serif;
+  
+}
+.wdt {
+  width: fit-content;
+}
+.menu {
+  padding-left: 20px;
+  color: rgb(0, 0, 0) !important;
+  font-size: 14px !important;
+  text-decoration: none;
+}
+.policy {
+  display: flex;
+  padding-left: 600px;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.lead3 {
+  font-size: 15px;
+  font-family: sans-serif, Open Sans;
+}
+@media screen and (max-width: 1270px) {
+  .colr{
+    background-color: rgb(19, 47, 74);
+    background-image: none;
+  }
+  .hide {
+    display: none !important;
+  }
+  .mainn{
+    display: none;
+  }
+  .form-new-collection{
+    background-color: rgb(245, 245, 245);
+    padding: 10px 10px 10px 10px !important;
+  }
+}
+.option-form{
+  padding: 30px !important;
+}
+.ii2{
+  color: rgb(218, 218, 218);
+  font-size: 20px;
+  text-align: right !important;
+  padding: 0px !important;
+
+}
+.ii3{
+  color: rgb(218, 218, 218);
+  font-size: 20px;
+  text-align: center !important;
+  padding: 0px !important;
+  text-decoration: none;
+}
+.ii2:hover{
+  color: orange;
+}
+.ii3:hover{
+  color: orange;
+}
+.scam {
+  font-size: 1.3rem;
+}
+.fosi {
+  font-size: 1.7rem;
+}
+.heading-new-coll{
+  color: rgb(205, 13, 13);
+  font-size: 25px;
+  font-weight: 600;
+}
+.sii {
+  font-size: 14px;
+}
+.add-text{
+  font-size: 20px !important;
+  font-family: sans-serif;
+}
+
+.form-new-collection{
+  background-color: rgb(245, 245, 245);
+  padding: 20px 150px 50px 150px;
+}
+.new-coll-input{
+  padding:15px !important;
+  border-radius:3px !important;
+  /* border:none !important; */
+}

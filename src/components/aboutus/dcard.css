@@ -1,0 +1,24 @@
+.about{
+    color: #005395;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;   
+}
+.resp{
+    margin-left: -30px;
+}
+
+
+@media screen and (min-width: 352px) and (max-width: 600px) {
+    .about{
+        font-size: 30px;
+        padding-top: 20px;
+    }
+ .resp1{
+    margin-left: 35px;
+ }
+ .resp{
+    margin-left: 0px;
+}
+  }

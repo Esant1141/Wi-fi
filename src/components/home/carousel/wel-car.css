@@ -1,0 +1,21 @@
+.welcome-heading{
+text-align:center;
+font-weight:600;
+color:#005395;
+padding-top:40px;
+font-size:28px;
+}
+.welcome-para{
+padding-left:70px;
+padding-right:70px;
+
+}
+.carousel-img{
+    width: 100%; 
+}
+@media screen and (min-width: 352px) and (max-width: 920px) {
+    .carousel-img{
+        width: 100%; 
+        height: 160px;
+    }
+  }

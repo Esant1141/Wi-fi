@@ -1,0 +1,49 @@
+.head-row {
+  background-color: white;
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+.head-line {
+  width: 100%;
+  padding: 0px;
+  background-color: darkblue;
+  height: 6px;
+}
+.head-img{
+  width: 100%; 
+}
+@media screen and (min-width: 352px) and (max-width: 920px) {
+  .head-img{
+      width: 100%; 
+      height: 160px;
+  }
+}
+.head-para {
+  font-size: 16.5px;
+  font-family: sans-serif, Open Sans;
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+/* Leading */
+.lead-row {
+  margin: auto !important;
+  margin-top: -17px !important;
+  padding-top: 50px;
+  background-color: white;
+  width: 100%;
+  padding-left: 110px;
+  padding-right: 110px;
+}
+@media screen and (min-width: 352px) and (max-width: 600px) {
+  .lead-row {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .head-para {
+    padding-left: 25px !important;
+    text-align: justify;
+    padding-right: 25px !important;
+  }
+}

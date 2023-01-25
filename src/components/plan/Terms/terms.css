@@ -1,0 +1,23 @@
+.terms-heading{
+    color: #005395;
+    font-weight: 600;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.terms{
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+    background-color: white;
+}
+.li-terms{
+    list-style: none !important;
+}
+@media screen and (min-width: 30em) and (max-width: 80em) {
+    .terms{
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        background-color: white;
+    }
+  }

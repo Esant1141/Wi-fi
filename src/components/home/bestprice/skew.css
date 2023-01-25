@@ -1,0 +1,184 @@
+.carousel-indicators {
+  display: none !important;
+}
+.carousel-control-next-icon {
+  display: none !important;
+}
+.carousel-control-prev-icon {
+  display: none !important;
+}
+.skew {
+  background-color: rgba(255, 140, 0, 0.596);
+  transform: skew(-15deg);
+  width: 79%;
+  height: 580px;
+}
+.verticle {
+  transform: skew(15deg) !important;
+}
+.sk1 {
+  width: 420px;
+  margin: auto !important;
+  padding: auto;
+}
+.icon-background{
+color: orange;
+font-size: 22px;
+}
+.p-background{
+  font-size: 22px;
+}
+.skew-col1{
+  /* background-color: rgb(245, 245, 245); */
+  padding: 50px 20px 20px 150px !important;
+}
+@media screen and (min-width: 352px) and (max-width: 920px) {
+  .skew {
+    background-color: rgba(255, 140, 0, 0);
+    transform: skew(0deg);
+    width: 100%;
+    height: auto;
+    padding: 0% !important;
+  }
+  .skew-col1{
+    background-color: rgb(245, 245, 245);
+    padding: 20px 20px 20px 20px !important;
+  }
+  .skew-div1{
+    background-color: white;
+    padding: 10px 10px 10px 10px !important;
+    border-radius: 5px;
+  }
+  .icon-background{
+    color: orange;
+    font-size: 18px;
+    }
+    .p-background{
+      font-size: 18px;
+    }
+  .skew-col2{
+    background-color: rgba(255, 140, 0, 0.596);
+  }
+  .verticle {
+    transform: skew(0deg) !important;
+  }
+  .sk1 {
+    width: 100% !important;
+    margin: auto;
+  }
+  .buy-container {
+    background-color: rgb(250, 250, 250);
+    padding: 10px 10px 10px 10px !important;
+  }
+}
+
+div.scrollmenu {
+  background-color: rgb(247, 247, 247);
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenu div {
+  display: inline-block;
+  color: rgb(35, 35, 35);
+  padding: 12px;
+  font-size: 13px !important;
+
+  text-decoration: none;
+}
+
+div.scrollmenu div:hover {
+  background-color: #777;
+}
+.slide-caption {
+  background-color: white !important;
+  padding: 10px 10px 10px 10px !important;
+  border-radius: 8px;
+  margin-bottom: 60px;
+  color: black !important;
+}
+.carouselslide {
+  height: 550px;
+}
+.change-plan {
+  background-color: rgb(208, 0, 0) !important;
+  border: none !important;
+}
+.submit-basic {
+  background-color: rgba(163, 163, 163, 0.868) !important;
+  border: none !important;
+  padding: 5px 30px 5px 30px !important;
+}
+.submit-basic:hover {
+  background-color: rgb(130, 130, 130) !important;
+  border: none !important;
+  padding: 5px 30px 5px 30px !important;
+}
+.back {
+  background-color: rgb(213, 213, 213) !important;
+  border: none !important;
+  padding: 5px 20px 5px 20px !important;
+}
+.back:hover {
+  background-color: rgb(145, 145, 145) !important;
+  border: none !important;
+  padding: 5px 20px 5px 20px !important;
+}
+
+.btn-buy {
+  background-color: rgb(208, 0, 0) !important;
+  border: none !important;
+  padding: 8px 25px 10px 25px !important;
+  color: white;
+  font-size: 14px !important;
+  border-radius: 8px;
+}
+.btn-buy-div {
+  align-items: flex-end !important;
+}
+.row-buy-btn {
+  padding: 20px 10px 10px 5px !important;
+}
+.buy-container {
+  background-color: rgb(250, 250, 250);
+  padding: 50px 200px 100px 200px;
+}
+div.scrollmenu1 {
+  background-color: rgb(250, 250, 250);
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenu1 div {
+  display: inline-block;
+  color: rgb(35, 35, 35);
+  padding: 12px;
+  text-decoration: none;
+}
+.buy-box {
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+}
+.modal-main {
+  height: 450px !important;
+  overflow: scroll !important;
+}
+.service-item {
+  display: flex;
+  padding: 10px;
+  font-size: 14px;
+}
+.input-buy {
+  border-radius: 5px !important;
+  padding: 15px 10px 15px 10px !important;
+}
+.main-col-modal {
+  padding: 30px !important;
+  background-color: rgb(250, 250, 250);
+  margin: auto !important;
+}
+.facility {
+  display: flex;
+  padding: 10px;
+  font-size: 14px;
+  background-color: white;
+}

@@ -1,0 +1,31 @@
+.infosaol-card-img {
+  padding: 0px;
+  /* border-radius: 30px; */
+}
+.infosol-main-title {
+  margin-top: -55px;
+  margin-left: 20px;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+.infosol-title {
+  padding-top: 0px;
+  display: flex;
+}
+.infosol-heading {
+  text-align: center;
+  font-weight: 600;
+  color: #005395;
+  padding-top: 20px;
+  font-size: 42px;
+}
+.infosol-row{
+    /* padding-right: 80px; */
+        /* padding-left: 80px; */
+        padding-top: 30px;
+        padding-bottom: 30px;   
+}
+.infosol-fluid{
+background-color: white;
+}

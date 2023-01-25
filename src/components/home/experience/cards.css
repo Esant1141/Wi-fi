@@ -1,0 +1,76 @@
+.zoo {
+  color: #005395;
+  font-weight: 600;
+  text-align: center !important;
+  font-size: 50px;
+}
+.zoo1 {
+  text-align: center !important;
+}
+.img-service{
+  padding: 20px;
+}
+.know-btn{
+  color:rgb(199, 26, 26);
+  text-decoration:none;
+  font-weight:600;
+}
+.col-service{
+  text-align:center;
+}
+.know-btn:hover{
+  color:orange;
+  text-decoration:none;
+  font-weight:600;
+}
+.redskew {
+  background-color: rgb(199, 26, 26);
+  height: 145px;
+  margin-top: -172px;
+  border-bottom-right-radius: 7px;
+  border-top-right-radius: 7px;
+  width: 63%;
+  margin-left: 130px;
+  z-index: 1;
+  position: relative;
+  -webkit-transform: perspective(250px) rotateX(20deg);
+  -o-transform: perspective(300px) rotateX(-30deg);
+  -webkit-transform-origin: 100% 50%;
+}
+.card-home-red{
+  padding: 20px 120px 20px 120px !important;
+  background-color: white;
+}
+.redskew:hover {
+  background-color: #212222;
+}
+.cardimg {
+  z-index: -1;
+  width:100%;
+}
+.title12 {
+  margin-top: -100px;
+  margin-left: 300px;
+z-index: 3;
+}
+.redcardtxt {
+  margin-top: -100px !important;
+  z-index: 1;
+}
+
+@media screen and (min-width: 352px) and (max-width: 920px) {
+  .zoo {
+    font-size: 30px;
+  }
+  .card-home-red{
+    padding: 0px 20px 20px 20px !important;
+  }
+}
+
+
+
+.service3 > .service2 > img,
+.service3 > .service2 > .service1 > img {
+  width: 70%;
+  margin: auto;
+}
